@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2GQQ0WQ+X/AnZrzO0FswjI+z9t3W2DWLOLroIushJleckG25QOZGmc/mcxyTI8iIPPqq1Ct0zJ++b5m8Rj6HQ==",
+  "success": true,
+  "projectFilePath": "C:\\zProgrammerGWIN\\WEB_APPS\\Web2022\\Web2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PROGRAMMER-GWIN\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.2\\microsoft.netcore.app.host.linux-x64.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\zProgrammerGWIN\WEB_APPS\Web2022\obj\Release\net8.0\linux-x64\PubTmp\Out\Web2022
+C:\zProgrammerGWIN\WEB_APPS\Web2022\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\zProgrammerGWIN\WEB_APPS\Web2022\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\zProgrammerGWIN\WEB_APPS\Web2022\obj\Release\net8.0\linux-x64\PubTmp\Out\Web2022.dll
+C:\zProgrammerGWIN\WEB_APPS\Web2022\obj\Release\net8.0\linux-x64\PubTmp\Out\Web2022.deps.json
+C:\zProgrammerGWIN\WEB_APPS\Web2022\obj\Release\net8.0\linux-x64\PubTmp\Out\Web2022.runtimeconfig.json
+C:\zProgrammerGWIN\WEB_APPS\Web2022\obj\Release\net8.0\linux-x64\PubTmp\Out\Web2022.pdb
